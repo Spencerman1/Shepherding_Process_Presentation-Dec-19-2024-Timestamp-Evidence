@@ -1,2 +1,4 @@
-# Shepherding_Process_Presentation-Dec-19-2024-Timestamp-Evidence
+By proceeding, you acknowledge that the materials within this vault are proprietary intellectual property of Spencer Southern / Southern Star Pro. Studios LLC (SSPS™), protected under trade secret, copyright, and sovereign IP law. Accessing this vault constitutes your agreement to a binding NDA and licensing restriction. You agree not to copy, disclose, reverse-engineer, or distribute any portion of the contents. This gateway is monitored and time-stamped under Right Hand Protocol™. Violation triggers immediate enforcement.
+
+Shepherding_Process_Presentation-Dec-19-2024-Timestamp-Evidence
 Includes the Shepherding_Process_Presentation file and screenshot verifying its Dec 19, 2024 creation date. Supports prior art tied to the Shepherd’s Method™. SHA-256 hash provided for timestamp integrity and forensic anchoring.
